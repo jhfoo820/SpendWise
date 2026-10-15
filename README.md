@@ -1,0 +1,2 @@
+# SpendWise
+Daily spend tracker
